@@ -9,6 +9,10 @@ Mi nombre es Jose Luis Ignacio, Este es mi portfolio
 
  Me destaque como alumno de CoderHouse el cual me permitio acceder a un trabajo como desarrollador web para el emprendimiento https://sietecuchillas.com.ar/
  Proximamente sere asignado nuevamente a un proyecto freelance. Además tengo varios trabajos personales que te invito a ver en mis repositorios😄
+ 
+ -Mis objetivos🌱:
+ 
+  El 2021 me ha dejado mucho aprendizaje y nuevas habiliades. Este comienzo del 2022 intentare superarme aún mas y estar acompañado de un empleo donde pueda aportar con mis habilidades y que pueda aprender mas del mismo y del equipo en el cual conforme.
 <!--
 **Ignacio-JL/Ignacio-JL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
