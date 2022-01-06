@@ -2,8 +2,11 @@
 Mi nombre es Jose Luis Ignacio, Este es mi portfolio
 
 -¿Que tenologias manejo?🤔
+
  Principalmente uso Java, Springboot, Html, Css, JavaScript, Bootstrap, MySql entre otros...
+ 
 -¿Experiencia?⚡
+
  Me destaque como alumno de CoderHouse el cual me permitio acceder a un trabajo como desarrollador web para el emprendimiento https://sietecuchillas.com.ar/
  Proximamente sere asignado nuevamente a un proyecto freelance. Además tengo varios trabajos personales que te invito a ver en mis repositorios😄
 <!--
