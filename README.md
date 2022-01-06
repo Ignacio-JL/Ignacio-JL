@@ -1,11 +1,16 @@
-### Hi there 👋
-
+### Hola 👋
+Mi nombre es Jose Luis Ignacio, Este es mi portfolio
+-¿Que tenologias manejo?🤔
+ Principalmente uso Java, Springboot, Html, Css, JavaScript, Bootstrap, MySql entre otros...
+-¿Experiencia?⚡
+ Me destaque como alumno de CoderHouse el cual me permitio acceder a un trabajo como desarrollador web para el emprendimiento https://sietecuchillas.com.ar/
+ Proximamente sere asignado nuevamente a un proyecto freelance. Además tengo varios trabajos personales que te invito a ver en mis repositorios😄
 <!--
 **Ignacio-JL/Ignacio-JL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-###🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
